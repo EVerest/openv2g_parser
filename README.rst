@@ -17,3 +17,4 @@ In order to build this project, you need to have the lua-dev packages installed
     # wireshark -X lua_script:../wireshark/openv2g_dissector.lua /path/to/pcap_file
 
 
+.. image:: assets/screenshot.png
